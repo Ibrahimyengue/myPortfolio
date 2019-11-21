@@ -1,53 +1,53 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "imagebaseurl":"https://ibrahimyengue.github.io/",
+    "name": "Ibrahima Bah",
+    "role": "Backend Developer",
+    "linkedinId":"https://www.linkedin.com/in/ibrahima-bah-87317a106/",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I also like doing frontend development using new technologies, such as Angular 2+ and React. I like reading articles about new technologies in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/ibrahima-bah-87317a106/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/Ibrahimyengue",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/Ibrahimyengue",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently a java analyst consultant at Alithya",
+    "address":"Montreal",
+    "website":"https://github.com/Ibrahimyengue",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Southern Alberta Institute of Technology",
+        "specialization":"Web and Mobile applications development",
+        "MonthOfPassing":"April",
+        "YearOfPassing":"2017",
+        // "Achievements":"Some Achievements"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"University of Bordeaux I (in France)",
+        "specialization":"Embedded systems applications",
+        "MonthOfPassing":"Sep",
+        "YearOfPassing":"2012",
+        // "Achievements":"Some Achievements"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Dejardins",
+        "specialization":"Java API development",
+        "MonthOfLeaving":"Jun",
+        "YearOfLeaving":"2019",
+        // "Achievements":"Some Achievements"
       },
       {
         "CompanyName":"Some Company",
